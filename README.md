@@ -1,2 +1,2 @@
 # HyGem-Oua-GamJam
-Deneme Halis
+Deneme Halis oy
